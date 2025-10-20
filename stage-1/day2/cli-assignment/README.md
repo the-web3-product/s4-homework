@@ -32,4 +32,5 @@ Merkle Trees 是使用哈希指针的二叉树。它的结构中所有的数据�
 在分布式账本中，每一笔交易都会被记录下来，所以具有绝对的可追溯性。
 
 # Q2 结构图
+
 ![结构图](stage-1/day2/cli-assignment/Structure.png)
